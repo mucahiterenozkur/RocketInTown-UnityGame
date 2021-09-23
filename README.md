@@ -1,7 +1,7 @@
 # RocketInTown-UnityGame
 This repo has one of my oldest simple game which aims to bring your rocket to the target area somehow. <br><br>
 It's made with Unity. Currently includes 5 levels and each level designed based on a color. <br><br>
-You shouldn't make any mistake for completing the game. I decided no extra chance since the game consists of 5 levels. (I will improve it later)
+You shouldn't make any mistake for completing the game. I decided no extra chance since the game consists of 5 levels. (I will keep improving it later)
 It gave me a different taste while I was building it. <br><br>
 
 ![intro](https://user-images.githubusercontent.com/59232592/134593935-fbed7cc9-332c-4551-8bdf-dfde894eba72.png)
